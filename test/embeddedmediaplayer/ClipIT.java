@@ -63,7 +63,7 @@ public class ClipIT {
     
     
     @Test
-    public void testSetEndBeforeStartKeepsPreviousValue()
+    public void testSetEndBeforeStartKeepsPreviousValue()kkkkk
     {
        System.out.println("Doesn't allow to set end time to start time");
        Clip instance = new Clip();
