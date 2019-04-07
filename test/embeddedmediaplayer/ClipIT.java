@@ -83,7 +83,7 @@ public class ClipIT {
     }
     
     @Test
-    public void testEqualsOnEqualClips() 
+    public void testEqualsOnEqualClips() hhhhhhh
     {
 //     create two sub videos with same title and same start time and end time
 //     2nd video should not allowed to be created due to duplicate
